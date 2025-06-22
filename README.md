@@ -4,7 +4,7 @@ A complete sentiment analysis system using a **Simple Recurrent Neural Network (
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Simple RNN architecture** with Embedding layer
 - **Streamlit web app** for real-time sentiment prediction
@@ -59,7 +59,7 @@ sentiment = 'Positive' if prediction > 0.5 else 'Negative'
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Installation
 
@@ -76,7 +76,7 @@ streamlit run main.py
 
 ---
 
-## 🔍 Workflow
+##  Workflow
 
 1. **Data Preprocessing**
    - Tokenize text using IMDB word index
