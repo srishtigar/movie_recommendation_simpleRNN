@@ -106,5 +106,6 @@ padded_review = sequence.pad_sequences([encoded_review], maxlen=500)
 **Sample Prediction:**
 
 Input: "This movie was absolutely fantastic"
+
 Output: Positive (0.98 confidence)
 
